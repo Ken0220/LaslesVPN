@@ -20,7 +20,7 @@
     const props = defineProps({
         imgSrc:{
             type: String,
-            default: 'Thisispic'
+            default: 'https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small_2x/Basic_Ui__28186_29.jpg'
         }
     })
 </script>
